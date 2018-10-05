@@ -1,7 +1,8 @@
 const ap = new APlayer({
-    container: document.getElementById('aplayer'),
-    fixed: true,
-    autoplay: false,
+    container: document.getElementById('player'),
+    listFolded: false,
+    listMaxHeight: 90,
+    lrcType: 0,
     audio: [
         {
             name: '���or���', //��Ƶ����
@@ -17,7 +18,7 @@ const ap = new APlayer({
             url: '/resources/music/�˷۵�̨�������� - Time����H2g����.mp3',
             cover: '/resources/music/�ϵ�.jpg',
             theme: '#46718b'
-        }
+        },
         {
             name: 'spoiler', //���ֻ��һ�׸裬ɾ����һ�飬���и���������˸�ʽ���������
             artist: '�Լ�',
