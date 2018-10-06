@@ -7,7 +7,7 @@ const ap = new APlayer({
         {
             name: '���or���', //��Ƶ����
             artist: '�ܸ�', //��Ƶ������
-            url: '/resources/music/�˷۵�̨�������� - ���or��롪������.mp3', //��Ƶ����
+            url: 'https://v2.fangcloud.com/share/8703ea8632f3408afecae7463c', //��Ƶ����
             cover: '/resources/music/�ϵ�.jpg', //��Ƶ����
             lrc: '0', //��Ƶ��ʣ���������lrcTypeʹ��
             theme: '#46718b' //�л�������Ƶʱ������ɫ��������� theme ���ȼ���
@@ -15,14 +15,14 @@ const ap = new APlayer({
         {
             name: 'Time', //���ֻ��һ�׸裬ɾ����һ�飬���и���������˸�ʽ���������
             artist: '�ܸ�',
-            url: '/resources/music/�˷۵�̨�������� - Time����H2g����.mp3',
+            url: 'https://v2.fangcloud.com/share/8703ea8632f3408afecae7463c',
             cover: '/resources/music/�ϵ�.jpg',
             theme: '#46718b'
         },
         {
             name: 'spoiler', //���ֻ��һ�׸裬ɾ����һ�飬���и���������˸�ʽ���������
             artist: '�Լ�',
-            url: '/resources/music/��̰�_����.wav',
+            url: 'https://v2.fangcloud.com/share/8703ea8632f3408afecae7463c',
             cover: '/resources/music/�ϵ�.jpg',
             theme: '#46718b'
         }
