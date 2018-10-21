@@ -8,7 +8,7 @@ const ap = new APlayer({
             name: '告诫',
             artist: '孤儿们',
             url: 'http://musiclin.test.upcdn.net/gaojiegaojie.mp3',
-            cover: 'cover1.jpg',
+            cover: 'http://musiclin.test.upcdn.net/didi.jpg',
             lrc: 'lrc1.lrc',
             theme: '#ebd0c2'
         },
@@ -16,7 +16,7 @@ const ap = new APlayer({
             name: '自白',
             artist: '孤儿们',
             url: 'http://musiclin.test.upcdn.net/zb.mp3',
-            cover: 'cover2.jpg',
+            cover: 'http://musiclin.test.upcdn.net/didi.jpg',
             lrc: 'lrc2.lrc',
             theme: '#46718b'
         }
